@@ -1,0 +1,15 @@
+/Users/alex/Documents/Github/OOP-Exercises/OOP-1/OOP-1/bin/Debug/net8.0/OOP-1
+/Users/alex/Documents/Github/OOP-Exercises/OOP-1/OOP-1/bin/Debug/net8.0/OOP-1.deps.json
+/Users/alex/Documents/Github/OOP-Exercises/OOP-1/OOP-1/bin/Debug/net8.0/OOP-1.runtimeconfig.json
+/Users/alex/Documents/Github/OOP-Exercises/OOP-1/OOP-1/bin/Debug/net8.0/OOP-1.dll
+/Users/alex/Documents/Github/OOP-Exercises/OOP-1/OOP-1/bin/Debug/net8.0/OOP-1.pdb
+/Users/alex/Documents/Github/OOP-Exercises/OOP-1/OOP-1/obj/Debug/net8.0/OOP-1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alex/Documents/Github/OOP-Exercises/OOP-1/OOP-1/obj/Debug/net8.0/OOP-1.AssemblyInfoInputs.cache
+/Users/alex/Documents/Github/OOP-Exercises/OOP-1/OOP-1/obj/Debug/net8.0/OOP-1.AssemblyInfo.cs
+/Users/alex/Documents/Github/OOP-Exercises/OOP-1/OOP-1/obj/Debug/net8.0/OOP-1.csproj.CoreCompileInputs.cache
+/Users/alex/Documents/Github/OOP-Exercises/OOP-1/OOP-1/obj/Debug/net8.0/OOP-1.sourcelink.json
+/Users/alex/Documents/Github/OOP-Exercises/OOP-1/OOP-1/obj/Debug/net8.0/OOP-1.dll
+/Users/alex/Documents/Github/OOP-Exercises/OOP-1/OOP-1/obj/Debug/net8.0/refint/OOP-1.dll
+/Users/alex/Documents/Github/OOP-Exercises/OOP-1/OOP-1/obj/Debug/net8.0/OOP-1.pdb
+/Users/alex/Documents/Github/OOP-Exercises/OOP-1/OOP-1/obj/Debug/net8.0/OOP-1.genruntimeconfig.cache
+/Users/alex/Documents/Github/OOP-Exercises/OOP-1/OOP-1/obj/Debug/net8.0/ref/OOP-1.dll
