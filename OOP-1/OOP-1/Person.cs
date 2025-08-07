@@ -18,6 +18,12 @@ namespace OOP_1
             this.name = initialName;
         }
 
+        //objects method
+    public void PrintPerson()
+    {
+        System.Console.WriteLine($"{this.name}, age {this.age} years ");
+    }
+
 
     }
 }
