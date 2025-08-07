@@ -1,2 +1,10 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using System;
+using OOP_1;
+
+public class Program
+{
+    public static void Main(string[] args)
+    {
+        Person ada = new Person("Aada");
+    }
+}
